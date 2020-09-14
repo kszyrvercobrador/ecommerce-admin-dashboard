@@ -1,0 +1,16 @@
+.v-main__wrap {
+  background-color: #eef5f9;
+}
+
+.position-relative {
+  position: relative;
+}
+
+.hero {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 160px;
+  background: linear-gradient(to right, #7f9bff 0%, #2ddeff 100%);
+}
